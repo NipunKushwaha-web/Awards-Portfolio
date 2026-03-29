@@ -304,7 +304,7 @@ awwwards-portfolio-main/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/NipunKushwaha-web/Awards-Portfolio.git
-   cd awwwards-portfolio
+   cd Awards-Portfolio
    ```
 
    > Inspired by [NipunKushwaha-web/Awards-Portfolio](https://github.com/NipunKushwaha-web/Awards-Portfolio)
