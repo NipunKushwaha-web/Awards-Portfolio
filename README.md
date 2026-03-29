@@ -2,6 +2,8 @@
 
 > A premium, award-worthy interactive portfolio showcasing full-stack development expertise through cutting-edge 3D graphics, scroll-driven animations, and polished micro-interactions.
 
+<img width="1897" height="969" alt="image" src="https://github.com/user-attachments/assets/a104bae9-6575-4663-9af1-a7a5d776aae3" />
+
 > Inspired by [NipunKushwaha-web/Awards-Portfolio](https://github.com/NipunKushwaha-web/Awards-Portfolio)
 
 ---
